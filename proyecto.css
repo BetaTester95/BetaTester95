@@ -1,0 +1,42 @@
+* {margin: 0;}
+
+
+
+
+.container { background: rgb(224, 171, 215);
+width: 100vw;
+
+height: 100vh;
+text-align: center;
+
+
+}
+
+#noBtn {
+
+position: absolute;
+top: 50%;
+left: 0%;
+transform: translate(0%, -50%);
+        }
+
+p { font-size: xx-large;
+    pad: 15%;
+
+
+}        
+
+button {
+font-size: xx-large;
+pad: 0,75em;
+}
+
+
+    
+         address {font-size: xx-large;
+        text-align: left;
+        
+        
+        }
+
+
